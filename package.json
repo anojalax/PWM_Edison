@@ -2,7 +2,7 @@
   "name": "PWM",
   "description": "",
   "version": "0.0.0",
-  "main": "main.js",
+  "main": "pwm.js",
   "engines": {
     "node": ">=0.10.0"
   },
